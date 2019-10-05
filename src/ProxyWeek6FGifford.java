@@ -1,3 +1,4 @@
+
 /*
  * Frederick Gifford
  * CPSC-60000 Week 6 Proxy Pattern
